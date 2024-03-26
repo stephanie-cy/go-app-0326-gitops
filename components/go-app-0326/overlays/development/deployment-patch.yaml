@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/yangcao/go-app-0326:1bae1d320d4d2448f1493ff137d015b3fee1ba3a@sha256:2bc0312d656b128806ef6abbe6d897e50f2aa72a2d1bc2b9ad3395a5011769dc
+        - image: quay.io/yangcao/go-app-0326:f0c18b3f02df8264e4b977baec7cefa1b5c5e124@sha256:578ddea888e7f8af60d922204d012ed4a3fc204df958aff9baef676681f13c14
           name: container-image
